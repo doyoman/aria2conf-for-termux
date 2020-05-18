@@ -1,0 +1,855 @@
+
+05/18 00:06:49 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6800
+
+
+05/18 00:06:50 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+05/18 00:07:30 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6800
+
+
+05/18 00:07:31 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+05/18 00:08:16 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6543
+
+
+05/18 00:08:17 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+05/18 00:08:45 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6543
+
+
+05/18 00:08:46 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+05/18 00:12:29 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6543
+
+
+05/18 00:12:30 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+05/18 00:15:23 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6800
+
+
+05/18 00:15:24 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+05/18 00:27:19 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6800
+
+
+05/18 00:27:20 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+05/18 00:35:21 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6800
+
+
+05/18 00:35:22 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+05/18 00:39:08 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6800
+
+
+05/18 00:39:09 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+05/18 00:40:40 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6800
+
+
+05/18 00:40:41 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ *** Download Progress Summary as of Mon May 18 00:41:45 2020 *** 
+===============================================================================
+[#7ac55e 0B/0B CN:1 DL:0B]
+FILE: https://github.com/BROBIRD/ClashForAndroid/releases/download/1.2.14R/app-arm64-v8a-release.apk
+-------------------------------------------------------------------------------
+
+[#7ac55e 0B/0B CN:1 DL:0B]
+
+05/18 00:41:46 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+[#7ac55e 0B/0B CN:1 DL:0B]
+
+05/18 00:41:47 [[1;32mNOTICE[0m] CUID#10 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T164147Z&X-Amz-Expires=300&X-Amz-Signature=9c332fbf17927e032993083e5829723d0b5877c50d0d1b71e2bfe7794bb94204&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#7ac55e 0B/0B CN:1 DL:0B]
+[#7ac55e 0B/0B CN:1 DL:0B]
+[#7ac55e 0B/0B CN:1 DL:0B]
+[#7ac55e 0B/0B CN:1 DL:0B]
+[#7ac55e 0B/0B CN:1 DL:0B]
+
+05/18 00:41:53 [[1;31mERROR[0m] CUID#11 - Exception caught while allocating file space.
+Exception: [/home/builder/.termux-build/aria2/src/src/AbstractDiskWriter.cc:561] errNum=95 errorCode=17 fallocate failed. cause: Operation not supported on transport endpoint
+
+05/18 00:41:53 [[1;31mERROR[0m] CUID#11 - Download not complete: storage/downloads/aria2/app-arm64-v8a-release.apk
+
+05/18 00:41:53 [[1;32mNOTICE[0m] Download GID#7ac55e6f46254ac6 not complete: storage/downloads/aria2/app-arm64-v8a-release.apk
+05/18 00:41:53 [[1;32mINFO[0m] Download error or stop, start deleting files...
+removed 'storage/downloads/aria2/app-arm64-v8a-release.apk.aria2'
+removed 'storage/downloads/aria2/app-arm64-v8a-release.apk'
+find: ‘’: No such file or directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+05/18 00:42:16 [[1;31mERROR[0m] CUID#12 - Download aborted. URI=https://github.com/BROBIRD/ClashForAndroid/releases/download/1.2.14R/app-arm64-v8a-release.apk
+Exception: [/home/builder/.termux-build/aria2/src/src/AbstractCommand.cc:351] errorCode=1 URI=https://github.com/BROBIRD/ClashForAndroid/releases/download/1.2.14R/app-arm64-v8a-release.apk
+  -> [/home/builder/.termux-build/aria2/src/src/SocketCore.cc:1021] errorCode=1 SSL/TLS handshake failure: SSL I/O error
+
+05/18 00:42:16 [[1;32mNOTICE[0m] Download GID#4a6237aba085aad1 not complete: 
+05/18 00:42:16 [[1;32mINFO[0m] Download error or stop, start deleting files...
+rm: cannot remove '.aria2': Is a directory
+find: ‘’: No such file or directory
+
+
+05/18 00:42:17 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+05/18 00:44:06 [[1;32mNOTICE[0m] Downloading 2 item(s)
+
+05/18 00:44:06 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6800
+
+05/18 00:44:07 [[1;31mERROR[0m] CUID#9 - Download aborted. URI=https://github.com/BROBIRD/ClashForAndroid/releases/download/1.2.14R/app-arm64-v8a-release.apk
+Exception: [/home/builder/.termux-build/aria2/src/src/AbstractCommand.cc:351] errorCode=1 URI=https://github.com/BROBIRD/ClashForAndroid/releases/download/1.2.14R/app-arm64-v8a-release.apk
+  -> [/home/builder/.termux-build/aria2/src/src/SocketCore.cc:1021] errorCode=1 SSL/TLS handshake failure: SSL I/O error
+
+05/18 00:44:07 [[1;32mNOTICE[0m] Download GID#7ac55e6f46254ac6 not complete: 
+
+05/18 00:44:07 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+05/18 00:44:07 [[1;32mINFO[0m] Download error or stop, start deleting files...
+rm: cannot remove '.aria2': Is a directory
+[#4a6237 0B/0B CN:1 DL:0B]
+
+05/18 00:44:08 [[1;32mNOTICE[0m] CUID#10 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T164407Z&X-Amz-Expires=300&X-Amz-Signature=08586c920565481a8fbb3661106040886c29b1730fa76553c455e6add0b9bc3a&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#4a6237 0B/0B CN:1 DL:0B]
+[#4a6237 0B/0B CN:1 DL:0B]
+
+05/18 00:44:11 [[1;31mERROR[0m] CUID#11 - Exception caught while allocating file space.
+Exception: [/home/builder/.termux-build/aria2/src/src/AbstractDiskWriter.cc:561] errNum=95 errorCode=17 fallocate failed. cause: Operation not supported on transport endpoint
+
+05/18 00:44:11 [[1;31mERROR[0m] CUID#11 - Download not complete: storage/downloads/aria2/app-arm64-v8a-release.apk
+
+05/18 00:44:11 [[1;32mNOTICE[0m] Download GID#4a6237aba085aad1 not complete: storage/downloads/aria2/app-arm64-v8a-release.apk
+05/18 00:44:11 [[1;32mINFO[0m] Download error or stop, start deleting files...
+removed 'storage/downloads/aria2/app-arm64-v8a-release.apk.aria2'
+removed 'storage/downloads/aria2/app-arm64-v8a-release.apk'
+
+
+
+
+
+
+
+
+
+05/18 00:44:19 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+[#729e04 0B/0B CN:1 DL:0B]
+
+05/18 00:44:20 [[1;32mNOTICE[0m] CUID#13 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T164407Z&X-Amz-Expires=300&X-Amz-Signature=08586c920565481a8fbb3661106040886c29b1730fa76553c455e6add0b9bc3a&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#729e04 0B/0B CN:1 DL:0B]
+[#729e04 0B/0B CN:1 DL:0B]
+[#729e04 0B/0B CN:1 DL:0B]
+[#729e04 0B/0B CN:1 DL:0B]
+[#729e04 0B/0B CN:1 DL:0B]
+
+05/18 00:44:26 [[1;31mERROR[0m] CUID#13 - Download aborted. URI=https://github.com/BROBIRD/ClashForAndroid/releases/download/1.2.14R/app-arm64-v8a-release.apk
+Exception: [/home/builder/.termux-build/aria2/src/src/AbstractCommand.cc:351] errorCode=1 URI=https://github.com/BROBIRD/ClashForAndroid/releases/download/1.2.14R/app-arm64-v8a-release.apk
+  -> [/home/builder/.termux-build/aria2/src/src/SocketCore.cc:1021] errorCode=1 SSL/TLS handshake failure: SSL I/O error
+
+05/18 00:44:26 [[1;32mNOTICE[0m] Download GID#729e04234f08876c not complete: 
+05/18 00:44:26 [[1;32mINFO[0m] Download error or stop, start deleting files...
+rm: cannot remove '.aria2': Is a directory
+
+
+
+
+
+
+
+
+
+
+
+[#ed856f 0B/0B CN:1 DL:0B]
+
+05/18 00:44:39 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+[#ed856f 0B/0B CN:1 DL:0B]
+
+05/18 00:44:40 [[1;32mNOTICE[0m] CUID#14 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T164440Z&X-Amz-Expires=300&X-Amz-Signature=298d4de66e69f5f9248271c7ade38d8d0546e99d610a555f5029b47df88a9ff6&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#ed856f 0B/0B CN:1 DL:0B]
+
+05/18 00:44:41 [[1;31mERROR[0m] CUID#15 - Exception caught while allocating file space.
+Exception: [/home/builder/.termux-build/aria2/src/src/AbstractDiskWriter.cc:561] errNum=95 errorCode=17 fallocate failed. cause: Operation not supported on transport endpoint
+
+05/18 00:44:41 [[1;31mERROR[0m] CUID#15 - Download not complete: /data/data/com.termux/files/home/storage/downloads/aria2/app-arm64-v8a-release.apk
+
+05/18 00:44:41 [[1;32mNOTICE[0m] Download GID#ed856fda02aed7bd not complete: /data/data/com.termux/files/home/storage/downloads/aria2/app-arm64-v8a-release.apk
+05/18 00:44:41 [[1;32mINFO[0m] Download error or stop, start deleting files...
+removed '/data/data/com.termux/files/home/storage/downloads/aria2/app-arm64-v8a-release.apk.aria2'
+removed '/data/data/com.termux/files/home/storage/downloads/aria2/app-arm64-v8a-release.apk'
+
+05/18 00:45:30 [[1;32mNOTICE[0m] Downloading 4 item(s)
+
+05/18 00:45:30 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6800
+
+05/18 00:45:31 [[1;32mNOTICE[0m] CUID#12 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T164531Z&X-Amz-Expires=300&X-Amz-Signature=ea856569dd490fe08d461975c4da88285548bdf8baf61dd073add778b6b8fd64&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[DL:0B][#7ac55e 0B/0B][#4a6237 0B/0B][#729e04 0B/0B][#ed856f 0B/0B]
+
+05/18 00:45:32 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+05/18 00:45:32 [[1;32mNOTICE[0m] CUID#11 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T164531Z&X-Amz-Expires=300&X-Amz-Signature=ea856569dd490fe08d461975c4da88285548bdf8baf61dd073add778b6b8fd64&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+
+05/18 00:45:32 [[1;32mNOTICE[0m] CUID#10 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T164531Z&X-Amz-Expires=300&X-Amz-Signature=ea856569dd490fe08d461975c4da88285548bdf8baf61dd073add778b6b8fd64&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[DL:0B][#7ac55e 0B/0B][#4a6237 0B/0B][#729e04 0B/0B][#ed856f 0B/0B]
+
+05/18 00:45:33 [[1;31mERROR[0m] CUID#13 - Exception caught while allocating file space.
+Exception: [/home/builder/.termux-build/aria2/src/src/AbstractDiskWriter.cc:561] errNum=95 errorCode=17 fallocate failed. cause: Operation not supported on transport endpoint
+
+05/18 00:45:33 [[1;31mERROR[0m] CUID#13 - Download not complete: /data/data/com.termux/files/home/storage/downloads/aria2/app-arm64-v8a-release.apk
+
+05/18 00:45:33 [[1;32mNOTICE[0m] Download GID#ed856fda02aed7bd not complete: /data/data/com.termux/files/home/storage/downloads/aria2/app-arm64-v8a-release.apk
+05/18 00:45:33 [[1;32mINFO[0m] Download error or stop, start deleting files...
+removed '/data/data/com.termux/files/home/storage/downloads/aria2/app-arm64-v8a-release.apk.aria2'
+removed '/data/data/com.termux/files/home/storage/downloads/aria2/app-arm64-v8a-release.apk'
+[DL:0B][#7ac55e 0B/0B][#4a6237 0B/0B][#729e04 0B/0B]
+
+05/18 00:45:34 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+05/18 00:45:34 [[1;31mERROR[0m] CUID#14 - Exception caught while allocating file space.
+Exception: [/home/builder/.termux-build/aria2/src/src/AbstractDiskWriter.cc:561] errNum=95 errorCode=17 fallocate failed. cause: Operation not supported on transport endpoint
+
+05/18 00:45:34 [[1;31mERROR[0m] CUID#14 - Download not complete: storage/downloads/aria2/app-arm64-v8a-release.apk
+
+05/18 00:45:34 [[1;32mNOTICE[0m] Download GID#729e04234f08876c not complete: storage/downloads/aria2/app-arm64-v8a-release.apk
+05/18 00:45:34 [[1;32mINFO[0m] Download error or stop, start deleting files...
+removed 'storage/downloads/aria2/app-arm64-v8a-release.apk.aria2'
+removed 'storage/downloads/aria2/app-arm64-v8a-release.apk'
+[DL:0B][#7ac55e 0B/0B][#4a6237 0B/0B]
+
+05/18 00:45:35 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+05/18 00:45:36 [[1;31mERROR[0m] CUID#15 - Exception caught while allocating file space.
+Exception: [/home/builder/.termux-build/aria2/src/src/AbstractDiskWriter.cc:561] errNum=95 errorCode=17 fallocate failed. cause: Operation not supported on transport endpoint
+
+05/18 00:45:36 [[1;31mERROR[0m] CUID#15 - Download not complete: storage/downloads/aria2/app-arm64-v8a-release.apk
+
+05/18 00:45:36 [[1;32mNOTICE[0m] Download GID#4a6237aba085aad1 not complete: storage/downloads/aria2/app-arm64-v8a-release.apk
+05/18 00:45:36 [[1;32mINFO[0m] Download error or stop, start deleting files...
+removed 'storage/downloads/aria2/app-arm64-v8a-release.apk.aria2'
+removed 'storage/downloads/aria2/app-arm64-v8a-release.apk'
+[#7ac55e 0B/0B CN:1 DL:0B]
+
+05/18 00:45:36 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+[#7ac55e 0B/0B CN:1 DL:0B]
+
+05/18 00:45:38 [[1;32mNOTICE[0m] CUID#9 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T164531Z&X-Amz-Expires=300&X-Amz-Signature=ea856569dd490fe08d461975c4da88285548bdf8baf61dd073add778b6b8fd64&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#7ac55e 0B/0B CN:1 DL:0B]
+[#7ac55e 0B/0B CN:1 DL:0B]
+[#7ac55e 0B/0B CN:1 DL:0B]
+[#7ac55e 0B/0B CN:1 DL:0B]
+
+05/18 00:45:43 [[1;31mERROR[0m] CUID#9 - Download aborted. URI=https://github.com/BROBIRD/ClashForAndroid/releases/download/1.2.14R/app-arm64-v8a-release.apk
+Exception: [/home/builder/.termux-build/aria2/src/src/AbstractCommand.cc:351] errorCode=1 URI=https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T164531Z&X-Amz-Expires=300&X-Amz-Signature=ea856569dd490fe08d461975c4da88285548bdf8baf61dd073add778b6b8fd64&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+  -> [/home/builder/.termux-build/aria2/src/src/SocketCore.cc:1021] errorCode=1 SSL/TLS handshake failure: SSL I/O error
+
+05/18 00:45:43 [[1;32mNOTICE[0m] Download GID#7ac55e6f46254ac6 not complete: 
+05/18 00:45:43 [[1;32mINFO[0m] Download error or stop, start deleting files...
+rm: cannot remove '.aria2': Is a directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+05/18 00:46:01 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+
+
+
+
+
+
+
+
+
+[#05ae34 0B/0B CN:1 DL:0B]
+
+05/18 00:46:12 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+[#05ae34 0B/0B CN:1 DL:0B]
+
+05/18 00:46:14 [[1;32mNOTICE[0m] CUID#17 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T164531Z&X-Amz-Expires=300&X-Amz-Signature=ea856569dd490fe08d461975c4da88285548bdf8baf61dd073add778b6b8fd64&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#05ae34 0B/0B CN:1 DL:0B]
+
+05/18 00:46:16 [[1;31mERROR[0m] CUID#18 - Exception caught while allocating file space.
+Exception: [/home/builder/.termux-build/aria2/src/src/AbstractDiskWriter.cc:561] errNum=95 errorCode=17 fallocate failed. cause: Operation not supported on transport endpoint
+
+05/18 00:46:16 [[1;31mERROR[0m] CUID#18 - Download not complete: /data/data/com.termux/files/home/storage/downloads/aria2/app-arm64-v8a-release.apk
+
+05/18 00:46:16 [[1;32mNOTICE[0m] Download GID#05ae342cfd8cbf13 not complete: /data/data/com.termux/files/home/storage/downloads/aria2/app-arm64-v8a-release.apk
+05/18 00:46:16 [[1;32mINFO[0m] Download error or stop, start deleting files...
+removed '/data/data/com.termux/files/home/storage/downloads/aria2/app-arm64-v8a-release.apk.aria2'
+removed '/data/data/com.termux/files/home/storage/downloads/aria2/app-arm64-v8a-release.apk'
+
+05/18 00:47:21 [[1;32mNOTICE[0m] Downloading 1 item(s)
+
+05/18 00:47:21 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6800
+[#05ae34 0B/0B CN:1 DL:0B]
+
+05/18 00:47:22 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+[#05ae34 0B/0B CN:1 DL:0B]
+
+05/18 00:47:24 [[1;32mNOTICE[0m] CUID#9 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T164531Z&X-Amz-Expires=300&X-Amz-Signature=ea856569dd490fe08d461975c4da88285548bdf8baf61dd073add778b6b8fd64&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#05ae34 0B/0B CN:1 DL:0B]
+[#05ae34 0B/0B CN:1 DL:0B]
+
+05/18 00:47:28 [[1;32mNOTICE[0m] CUID#11 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T164531Z&X-Amz-Expires=300&X-Amz-Signature=ea856569dd490fe08d461975c4da88285548bdf8baf61dd073add778b6b8fd64&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#05ae34 64KiB/13MiB(0%) CN:2 DL:99KiB ETA:2m19s]
+[#05ae34 320KiB/13MiB(2%) CN:2 DL:180KiB ETA:1m15s]
+[#05ae34 752KiB/13MiB(5%) CN:2 DL:262KiB ETA:50s]
+[#05ae34 1.2MiB/13MiB(9%) CN:2 DL:325KiB ETA:39s]
+[#05ae34 1.7MiB/13MiB(12%) CN:2 DL:348KiB ETA:35s]
+[#05ae34 2.1MiB/13MiB(15%) CN:2 DL:360KiB ETA:32s]
+[#05ae34 2.7MiB/13MiB(20%) CN:2 DL:389KiB ETA:28s]
+
+05/18 00:47:35 [[1;32mNOTICE[0m] CUID#11 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T164531Z&X-Amz-Expires=300&X-Amz-Signature=ea856569dd490fe08d461975c4da88285548bdf8baf61dd073add778b6b8fd64&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#05ae34 3.0MiB/13MiB(22%) CN:2 DL:385KiB ETA:28s]
+[#05ae34 3.5MiB/13MiB(25%) CN:2 DL:391KiB ETA:26s]
+[#05ae34 4.1MiB/13MiB(30%) CN:2 DL:455KiB ETA:21s]
+[#05ae34 4.6MiB/13MiB(33%) CN:2 DL:483KiB ETA:19s]
+[#05ae34 5.0MiB/13MiB(37%) CN:2 DL:468KiB ETA:18s]
+[#05ae34 5.6MiB/13MiB(41%) CN:2 DL:489KiB ETA:16s]
+[#05ae34 6.1MiB/13MiB(44%) CN:2 DL:482KiB ETA:16s]
+[#05ae34 6.6MiB/13MiB(48%) CN:2 DL:477KiB ETA:15s]
+[#05ae34 7.0MiB/13MiB(51%) CN:2 DL:484KiB ETA:13s]
+
+05/18 00:47:44 [[1;32mNOTICE[0m] CUID#11 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T164735Z&X-Amz-Expires=300&X-Amz-Signature=f1a77b544e7b0872e41739cce50e66c4a4d439a47a7228af76032773efa25f2d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#05ae34 7.2MiB/13MiB(52%) CN:2 DL:441KiB ETA:15s]
+
+05/18 00:47:45 [[1;32mNOTICE[0m] CUID#9 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T164735Z&X-Amz-Expires=300&X-Amz-Signature=f1a77b544e7b0872e41739cce50e66c4a4d439a47a7228af76032773efa25f2d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#05ae34 7.2MiB/13MiB(52%) CN:2 DL:386KiB ETA:17s]
+[#05ae34 7.2MiB/13MiB(52%) CN:2 DL:328KiB ETA:20s]
+[#05ae34 7.2MiB/13MiB(53%) CN:2 DL:292KiB ETA:22s]
+[#05ae34 7.4MiB/13MiB(54%) CN:2 DL:268KiB ETA:23s]
+[#05ae34 8.0MiB/13MiB(58%) CN:2 DL:259KiB ETA:22s]
+[#05ae34 9.2MiB/13MiB(68%) CN:2 DL:339KiB ETA:13s]
+[#05ae34 10MiB/13MiB(74%) CN:2 DL:407KiB ETA:8s]
+[#05ae34 10MiB/13MiB(75%) CN:2 DL:373KiB ETA:9s]
+[#05ae34 10MiB/13MiB(77%) CN:2 DL:485KiB ETA:6s]
+[#05ae34 11MiB/13MiB(85%) CN:1 DL:546KiB ETA:3s]
+[#05ae34 11MiB/13MiB(85%) CN:1 DL:485KiB ETA:4s]
+[#05ae34 11MiB/13MiB(86%) CN:1 DL:478KiB ETA:4s]
+[#05ae34 11MiB/13MiB(86%) CN:1 DL:433KiB ETA:4s]
+[#05ae34 11MiB/13MiB(86%) CN:1 DL:398KiB ETA:4s]
+[#05ae34 11MiB/13MiB(86%) CN:1 DL:200KiB ETA:9s]
+[#05ae34 12MiB/13MiB(89%) CN:1 DL:215KiB ETA:7s]
+[#05ae34 12MiB/13MiB(89%) CN:1 DL:191KiB ETA:7s]
+[#05ae34 12MiB/13MiB(89%) CN:1 DL:86KiB ETA:17s]
+[#05ae34 12MiB/13MiB(89%) CN:1 DL:64KiB ETA:22s]
+[#05ae34 12MiB/13MiB(90%) CN:1 DL:69KiB ETA:19s]
+[#05ae34 12MiB/13MiB(90%) CN:1 DL:97KiB ETA:13s]
+[#05ae34 12MiB/13MiB(90%) CN:1 DL:83KiB ETA:16s]
+[#05ae34 12MiB/13MiB(91%) CN:1 DL:91KiB ETA:13s]
+[#05ae34 13MiB/13MiB(96%) CN:1 DL:160KiB ETA:2s]
+[#05ae34 13MiB/13MiB(98%) CN:1 DL:156KiB ETA:1s]
+[#05ae34 13MiB/13MiB(99%) CN:1 DL:156KiB]
+
+05/18 00:48:11 [[1;32mNOTICE[0m] Download complete: Download/app-arm64-v8a-release.apk
+05/18 00:48:12 [[1;32mINFO[0m] Delete .aria2 file ...
+
+
+05/18 00:48:12 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+05/18 00:48:57 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6800
+
+
+05/18 00:48:58 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[#de7101 0B/0B CN:1 DL:0B]
+
+05/18 00:49:28 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+[#de7101 0B/0B CN:1 DL:0B]
+[#de7101 0B/0B CN:1 DL:0B]
+[#de7101 0B/0B CN:1 DL:0B]
+
+05/18 00:49:30 [[1;32mNOTICE[0m] CUID#10 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T164735Z&X-Amz-Expires=300&X-Amz-Signature=f1a77b544e7b0872e41739cce50e66c4a4d439a47a7228af76032773efa25f2d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#de7101 0B/0B CN:1 DL:0B]
+[#de7101 0B/0B CN:1 DL:0B]
+[#de7101 0B/0B CN:1 DL:0B]
+[#de7101 0B/0B CN:1 DL:0B]
+[#de7101 0B/0B CN:1 DL:0B]
+
+05/18 00:49:36 [[1;31mERROR[0m] CUID#10 - Download aborted. URI=https://github.com/BROBIRD/ClashForAndroid/releases/download/1.2.14R/app-arm64-v8a-release.apk
+Exception: [/home/builder/.termux-build/aria2/src/src/AbstractCommand.cc:351] errorCode=1 URI=https://github.com/BROBIRD/ClashForAndroid/releases/download/1.2.14R/app-arm64-v8a-release.apk
+  -> [/home/builder/.termux-build/aria2/src/src/SocketCore.cc:1021] errorCode=1 SSL/TLS handshake failure: SSL I/O error
+
+05/18 00:49:36 [[1;32mNOTICE[0m] Download GID#de7101c1df3c2caf not complete: 
+05/18 00:49:36 [[1;32mINFO[0m] Download error or stop, start deleting files...
+rm: cannot remove '.aria2': Is a directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+05/18 00:50:00 [[1;32mNOTICE[0m] CUID#11 - Redirecting to https://www.baidu.com/
+
+05/18 00:50:01 [[1;32mNOTICE[0m] Download complete: /data/data/com.termux/files/home/storage/downloads/aria2/index.html
+05/18 00:50:01 [[1;32mINFO[0m] Delete .aria2 file ...
+
+05/18 00:58:03 [[1;32mNOTICE[0m] Downloading 1 item(s)
+
+05/18 00:58:03 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6800
+[#de7101 0B/0B CN:1 DL:0B]
+
+05/18 00:58:04 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+05/18 00:58:04 [[1;32mNOTICE[0m] CUID#9 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T165804Z&X-Amz-Expires=300&X-Amz-Signature=9528a0787c08f68431ef968c5ae2e604b72565ac25f96a193b57f0ca0d6f8c21&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#de7101 0B/0B CN:1 DL:0B]
+[#de7101 0B/0B CN:1 DL:0B]
+
+05/18 00:58:08 [[1;32mNOTICE[0m] CUID#11 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T165804Z&X-Amz-Expires=300&X-Amz-Signature=9528a0787c08f68431ef968c5ae2e604b72565ac25f96a193b57f0ca0d6f8c21&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#de7101 352KiB/13MiB(2%) CN:2 DL:337KiB ETA:40s]
+[#de7101 1.8MiB/13MiB(13%) CN:2 DL:920KiB ETA:13s]
+[#de7101 2.7MiB/13MiB(19%) CN:2 DL:919KiB ETA:12s]
+[#de7101 3.5MiB/13MiB(25%) CN:2 DL:865KiB ETA:12s]
+[#de7101 4.3MiB/13MiB(32%) CN:2 DL:874KiB ETA:10s]
+[#de7101 5.7MiB/13MiB(42%) CN:2 DL:0.9MiB ETA:8s]
+[#de7101 6.7MiB/13MiB(49%) CN:2 DL:0.9MiB ETA:7s]
+
+05/18 00:58:14 [[1;32mNOTICE[0m] CUID#11 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T165804Z&X-Amz-Expires=300&X-Amz-Signature=9528a0787c08f68431ef968c5ae2e604b72565ac25f96a193b57f0ca0d6f8c21&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#de7101 6.7MiB/13MiB(49%) CN:2 DL:831KiB ETA:8s]
+[#de7101 6.7MiB/13MiB(49%) CN:2 DL:742KiB ETA:9s]
+
+05/18 00:58:16 [[1;32mNOTICE[0m] CUID#9 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-861d-27206a578515?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T165816Z&X-Amz-Expires=300&X-Amz-Signature=09f88a38b6f1339f5add8cad3c55c0d065f05d8d3a800abdc01a7b212b6c0b9d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-arm64-v8a-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#de7101 6.7MiB/13MiB(49%) CN:2 DL:703KiB ETA:10s]
+[#de7101 7.1MiB/13MiB(52%) CN:2 DL:572KiB ETA:11s]
+[#de7101 7.7MiB/13MiB(56%) CN:2 DL:557KiB ETA:10s]
+[#de7101 8.2MiB/13MiB(60%) CN:2 DL:552KiB ETA:10s]
+[#de7101 8.7MiB/13MiB(63%) CN:2 DL:538KiB ETA:9s]
+[#de7101 9.2MiB/13MiB(67%) CN:2 DL:386KiB ETA:11s]
+[#de7101 9.5MiB/13MiB(70%) CN:2 DL:313KiB ETA:13s]
+[#de7101 9.9MiB/13MiB(72%) CN:2 DL:412KiB ETA:9s]
+[#de7101 10MiB/13MiB(76%) CN:2 DL:421KiB ETA:7s]
+[#de7101 11MiB/13MiB(85%) CN:2 DL:517KiB ETA:3s]
+[#de7101 12MiB/13MiB(93%) CN:2 DL:585KiB ETA:1s]
+
+05/18 00:58:29 [[1;32mNOTICE[0m] Download complete: Download/app-arm64-v8a-release.apk
+05/18 00:58:29 [[1;32mINFO[0m] Delete .aria2 file ...
+
+
+05/18 00:58:30 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+05/18 00:59:03 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+[#a95bc7 0B/0B CN:1 DL:0B]
+ *** Download Progress Summary as of Mon May 18 00:59:05 2020 *** 
+===============================================================================
+[#a95bc7 0B/0B CN:1 DL:0B]
+FILE: https://github.com/BROBIRD/ClashForAndroid/releases/download/1.2.14R/app-x86_64-release.apk
+-------------------------------------------------------------------------------
+
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+ *** Download Progress Summary as of Mon May 18 01:00:05 2020 *** 
+===============================================================================
+[#a95bc7 0B/0B CN:1 DL:0B]
+FILE: https://github.com/BROBIRD/ClashForAndroid/releases/download/1.2.14R/app-x86_64-release.apk
+-------------------------------------------------------------------------------
+
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+
+05/18 01:00:08 [[1;32mNOTICE[0m] CUID#25 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+
+05/18 01:00:18 [[1;32mNOTICE[0m] CUID#25 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+[#a95bc7 0B/0B CN:1 DL:0B]
+
+05/18 01:00:24 [[1;31mERROR[0m] CUID#25 - Download aborted. URI=https://github.com/BROBIRD/ClashForAndroid/releases/download/1.2.14R/app-x86_64-release.apk
+Exception: [/home/builder/.termux-build/aria2/src/src/AbstractCommand.cc:351] errorCode=1 URI=https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+  -> [/home/builder/.termux-build/aria2/src/src/SocketCore.cc:1021] errorCode=1 SSL/TLS handshake failure: SSL I/O error
+
+05/18 01:00:24 [[1;32mNOTICE[0m] Download GID#a95bc74a45e9c1d0 not complete: 
+05/18 01:00:24 [[1;32mINFO[0m] Download error or stop, start deleting files...
+rm: cannot remove '.aria2': Is a directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[#28d93e 0B/0B CN:1 DL:0B]
+
+05/18 01:00:43 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+[#28d93e 0B/0B CN:1 DL:0B]
+[#28d93e 0B/0B CN:1 DL:0B]
+[#28d93e 0B/0B CN:1 DL:0B]
+[#28d93e 0B/0B CN:1 DL:0B]
+[#28d93e 0B/0B CN:1 DL:0B]
+[#28d93e 0B/0B CN:1 DL:0B]
+[#28d93e 0B/0B CN:1 DL:0B]
+
+05/18 01:00:50 [[1;32mNOTICE[0m] CUID#26 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+
+05/18 01:01:11 [[1;32mNOTICE[0m] Downloading 2 item(s)
+
+05/18 01:01:11 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6800
+
+05/18 01:01:12 [[1;32mNOTICE[0m] CUID#9 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[DL:0B][#a95bc7 0B/0B][#28d93e 0B/0B]
+
+05/18 01:01:12 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+
+05/18 01:01:13 [[1;32mNOTICE[0m] CUID#10 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[DL:0B][#a95bc7 0B/0B][#28d93e 0B/0B]
+
+05/18 01:01:15 [[1;32mNOTICE[0m] CUID#12 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[DL:51KiB][#a95bc7 16KiB/14MiB(0%)][#28d93e 0B/0B]
+
+05/18 01:01:15 [[1;32mNOTICE[0m] File already exists. Renamed to Download/app-x86_64-release.1.apk.
+
+05/18 01:01:15 [[1;32mNOTICE[0m] CUID#13 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[DL:426KiB][#a95bc7 512KiB/14MiB(3%)][#28d93e 32KiB/14MiB(0%)]
+
+05/18 01:01:16 [[1;32mNOTICE[0m] CUID#27 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[DL:371KiB][#a95bc7 736KiB/14MiB(4%)][#28d93e 128KiB/14MiB(0%)]
+[DL:532KiB][#a95bc7 1.5MiB/14MiB(10%)][#28d93e 336KiB/14MiB(2%)]
+
+05/18 01:01:18 [[1;32mNOTICE[0m] CUID#28 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[DL:462KiB][#a95bc7 1.7MiB/14MiB(11%)][#28d93e 448KiB/14MiB(3%)]
+[DL:397KiB][#a95bc7 1.7MiB/14MiB(12%)][#28d93e 480KiB/14MiB(3%)]
+[DL:348KiB][#a95bc7 1.7MiB/14MiB(12%)][#28d93e 528KiB/14MiB(3%)]
+[DL:312KiB][#a95bc7 1.8MiB/14MiB(12%)][#28d93e 576KiB/14MiB(3%)]
+[DL:361KiB][#a95bc7 2.5MiB/14MiB(17%)][#28d93e 592KiB/14MiB(4%)]
+[DL:356KiB][#a95bc7 2.8MiB/14MiB(19%)][#28d93e 592KiB/14MiB(4%)]
+
+05/18 01:01:25 [[1;32mNOTICE[0m] CUID#12 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[DL:375KiB][#a95bc7 3.2MiB/14MiB(22%)][#28d93e 624KiB/14MiB(4%)]
+[DL:373KiB][#a95bc7 3.5MiB/14MiB(24%)][#28d93e 816KiB/14MiB(5%)]
+
+05/18 01:01:27 [[1;32mNOTICE[0m] CUID#29 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[DL:348KiB][#a95bc7 4.2MiB/14MiB(29%)][#28d93e 816KiB/14MiB(5%)]
+
+05/18 01:01:27 [[1;32mNOTICE[0m] CUID#27 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+
+05/18 01:01:27 [[1;32mNOTICE[0m] CUID#10 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[DL:325KiB][#a95bc7 4.2MiB/14MiB(29%)][#28d93e 816KiB/14MiB(5%)]
+[DL:327KiB][#a95bc7 4.4MiB/14MiB(30%)][#28d93e 816KiB/14MiB(5%)]
+
+05/18 01:01:30 [[1;31mERROR[0m] CUID#12 - Download aborted. URI=https://github.com/BROBIRD/ClashForAndroid/releases/download/1.2.14R/app-x86_64-release.apk
+Exception: [/home/builder/.termux-build/aria2/src/src/AbstractCommand.cc:351] errorCode=1 URI=https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+  -> [/home/builder/.termux-build/aria2/src/src/SocketCore.cc:1021] errorCode=1 SSL/TLS handshake failure: SSL I/O error
+
+05/18 01:01:30 [[1;32mNOTICE[0m] Download GID#28d93e32816b0683 paused
+[#a95bc7 4.4MiB/14MiB(31%) CN:2 DL:297KiB ETA:34s]
+
+05/18 01:01:31 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+[#a95bc7 4.5MiB/14MiB(31%) CN:2 DL:306KiB ETA:32s]
+[#a95bc7 4.6MiB/14MiB(32%) CN:2 DL:231KiB ETA:43s]
+[#a95bc7 4.7MiB/14MiB(32%) CN:2 DL:195KiB ETA:50s]
+[#a95bc7 5.0MiB/14MiB(34%) CN:2 DL:187KiB ETA:51s]
+[#a95bc7 5.3MiB/14MiB(37%) CN:2 DL:206KiB ETA:44s]
+[#a95bc7 6.3MiB/14MiB(43%) CN:2 DL:254KiB ETA:32s]
+[#a95bc7 7.0MiB/14MiB(48%) CN:2 DL:302KiB ETA:24s]
+[#a95bc7 7.5MiB/14MiB(52%) CN:2 DL:350KiB ETA:19s]
+[#a95bc7 7.5MiB/14MiB(52%) CN:2 DL:345KiB ETA:20s]
+[#a95bc7 7.8MiB/14MiB(54%) CN:2 DL:369KiB ETA:18s]
+[#a95bc7 8.1MiB/14MiB(56%) CN:2 DL:415KiB ETA:15s]
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:378KiB ETA:16s]
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:372KiB ETA:17s]
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:262KiB ETA:24s]
+
+05/18 01:01:46 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:181KiB ETA:34s]
+
+05/18 01:01:47 [[1;32mNOTICE[0m] CUID#13 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:117KiB ETA:53s]
+
+05/18 01:01:48 [[1;32mNOTICE[0m] CUID#9 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170007Z&X-Amz-Expires=300&X-Amz-Signature=d84d65d9f2e086fe9b5583f5e10e093b5a43ea83119d6bff29e103bc0a4f774d&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:75KiB ETA:1m23s]
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:7.4KiB ETA:14m6s]
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:6.7KiB ETA:15m46s]
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:0B]
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:0B]
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:0B]
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:0B]
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:0B]
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:0B]
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:0B]
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:0B]
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:0B]
+[#a95bc7 8.2MiB/14MiB(57%) CN:2 DL:100KiB ETA:1m2s]
+[#a95bc7 8.4MiB/14MiB(58%) CN:2 DL:121KiB ETA:50s]
+[#a95bc7 8.6MiB/14MiB(60%) CN:2 DL:171KiB ETA:34s]
+[#a95bc7 8.8MiB/14MiB(61%) CN:2 DL:159KiB ETA:35s]
+[#a95bc7 9.0MiB/14MiB(62%) CN:2 DL:169KiB ETA:32s]
+[#a95bc7 9.5MiB/14MiB(65%) CN:2 DL:206KiB ETA:24s]
+[#a95bc7 9.7MiB/14MiB(67%) CN:2 DL:211KiB ETA:22s]
+[#a95bc7 10MiB/14MiB(70%) CN:2 DL:233KiB ETA:18s]
+[#a95bc7 10MiB/14MiB(70%) CN:2 DL:218KiB ETA:19s]
+ *** Download Progress Summary as of Mon May 18 01:02:12 2020 *** 
+===============================================================================
+[#a95bc7 10MiB/14MiB(71%) CN:1 DL:220KiB ETA:19s]
+FILE: Download/app-x86_64-release.apk
+-------------------------------------------------------------------------------
+
+[#a95bc7 10MiB/14MiB(71%) CN:1 DL:220KiB ETA:19s]
+[#a95bc7 10MiB/14MiB(71%) CN:1 DL:205KiB ETA:20s]
+[#a95bc7 10MiB/14MiB(71%) CN:1 DL:175KiB ETA:24s]
+[#a95bc7 10MiB/14MiB(71%) CN:1 DL:155KiB ETA:26s]
+[#a95bc7 10MiB/14MiB(72%) CN:1 DL:144KiB ETA:28s]
+[#a95bc7 10MiB/14MiB(72%) CN:1 DL:133KiB ETA:30s]
+[#a95bc7 10MiB/14MiB(72%) CN:1 DL:90KiB ETA:45s]
+[#a95bc7 10MiB/14MiB(73%) CN:1 DL:68KiB ETA:56s]
+[#a95bc7 11MiB/14MiB(76%) CN:1 DL:97KiB ETA:35s]
+[#a95bc7 11MiB/14MiB(76%) CN:1 DL:126KiB ETA:27s]
+[#a95bc7 11MiB/14MiB(76%) CN:1 DL:109KiB ETA:31s]
+
+05/18 01:02:22 [[1;32mNOTICE[0m] CUID#9 - Redirecting to https://github-production-release-asset-2e65be.s3.amazonaws.com/244160446/b0fd1d80-9636-11ea-8457-54b26ae67f7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200517T170221Z&X-Amz-Expires=300&X-Amz-Signature=468c69666c1d45c786852f80bc0134baa22705ebd8a918a683396f430ce62838&X-Amz-SignedHeaders=host&actor_id=0&repo_id=244160446&response-content-disposition=attachment%3B%20filename%3Dapp-x86_64-release.apk&response-content-type=application%2Fvnd.android.package-archive
+[#a95bc7 11MiB/14MiB(76%) CN:1 DL:96KiB ETA:35s]
+[#a95bc7 11MiB/14MiB(76%) CN:1 DL:83KiB ETA:41s]
+[#a95bc7 11MiB/14MiB(80%) CN:1 DL:136KiB ETA:20s]
+[#a95bc7 11MiB/14MiB(81%) CN:1 DL:185KiB ETA:14s]
+[#a95bc7 11MiB/14MiB(81%) CN:1 DL:164KiB ETA:16s]
+[#a95bc7 11MiB/14MiB(82%) CN:1 DL:162KiB ETA:15s]
+[#a95bc7 12MiB/14MiB(86%) CN:1 DL:172KiB ETA:11s]
+[#a95bc7 13MiB/14MiB(93%) CN:1 DL:406KiB ETA:2s]
+[#a95bc7 13MiB/14MiB(94%) CN:1 DL:375KiB ETA:2s]
+[#a95bc7 14MiB/14MiB(99%) CN:1 DL:411KiB]
+
+05/18 01:02:32 [[1;32mNOTICE[0m] Download complete: Download/app-x86_64-release.apk
+05/18 01:02:32 [[1;32mINFO[0m] Delete .aria2 file ...
+
+
+05/18 01:02:34 [[1;32mNOTICE[0m] Serialized session to '.aria2/aria2.session' successfully.
